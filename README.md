@@ -43,4 +43,4 @@ npx prisma migrte reset
 ```
 
 4. Paginatio Loading
-Check out
+(Check out)[https://github.com/tenPro4/next_discord23/blob/main/hooks/use-chat-query.ts]
