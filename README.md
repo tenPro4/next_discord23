@@ -8,7 +8,7 @@ npx shadcn-ui@latest init
 - [Clerk Auth](https://clerk.com/)
 - [Next-Theme](https://ui.shadcn.com/docs/dark-mode/next)
 - query-string
-- (Livekit)[https://livekit.io/]
+- [Livekit](https://livekit.io/)
 - socket.io : real time chat
 - useContext
 - @emoji-mart/react & @emoji-mart/data :Emoji picker
